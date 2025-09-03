@@ -1,4 +1,4 @@
-# Roteiro - CERISE Gateway Firmware
+# CERISE Gateway Firmware
 
 ## 1. Descrição do Projeto
 
